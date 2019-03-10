@@ -6,7 +6,6 @@
   border-radius: 25px;
 }
 
-.btn-outline-success {
-  border-radius: 35px;
-  padding: 5px 20px;
+button {
+  border-radius: 25px;
 }

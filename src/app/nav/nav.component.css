@@ -1,0 +1,12 @@
+.dropdown-toggle, .dropdown-item {
+  cursor: pointer;
+}
+
+.form-control {
+  border-radius: 25px;
+}
+
+.btn-outline-success {
+  border-radius: 35px;
+  padding: 5px 20px;
+}
